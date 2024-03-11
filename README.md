@@ -19,3 +19,6 @@ The **restructured_conceptual_model** file contains the same ER model as the con
 The **tables** file includes the volume table and the operations table. It contains information about the load of each entity and relationship in the database, along with the operations performed and their respective frequencies.
 
 - *Query examples*: The file **Query examples** comprises various examples demonstrating operations that can be performed with the database. These examples serve to illustrate the functionalities and capabilities of the database, offering insights into the range of tasks it can accomplish.
+
+**NOTE**: Almost all files in this repository have been translated from Italian, which was the language used during the project's development. However, please be aware that the files "conceptual_model", "restructured_conceptual_model", and "MySQL_model" are in Italian.
+If you encounter any difficulties due to language differences or require assistance understanding these files, please feel free to reach out for clarification or translation support.
