@@ -18,3 +18,4 @@ The **restructured_conceptual_model** file contains the same ER model as the con
 - *tables.pdf*
 The **tables** file includes the volume table and the operations table. It contains information about the load of each entity and relationship in the database, along with the operations performed and their respective frequencies.
 
+- *Query examples*: The file **Query examples** comprises various examples demonstrating operations that can be performed with the database. These examples serve to illustrate the functionalities and capabilities of the database, offering insights into the range of tasks it can accomplish.
