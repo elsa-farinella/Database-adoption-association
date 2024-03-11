@@ -3,16 +3,16 @@ The project involves the development of a database, from its structuring to its 
 
 This repository contains various files encapsulating the functions related to a database project. Below is a brief description of each file:
 
-- *report.pdf*
+- *report.pdf*: 
 The **report** file encapsulates a general overview of the steps taken to achieve the final result of the database project. At the bottom of the report, you'll find a link to the Google Colab page where you can interact with the database, modify it, and extract information from it.
 
-- *interview.pdf*
+- *interview.pdf*: 
 The **interview** file contains the conducted interview with the two members of the association for which the database was created. They provided essential information that helped in creating the database and meeting the association's needs.
 
-- *conceptual_model.pdf*
+- *conceptual_model.pdf*:
 The **conceptual_model** file contains the Entity-Relationship (ER) model that serves as the foundation for the database implemented on MySQL.
 
-- *restructured_conceptual_model.pdf*
+- *restructured_conceptual_model.pdf*:
 The **restructured_conceptual_model** file contains the same ER model as the conceptual model. However, restructuring has been applied to make the model implementable.
 
 - *tables.pdf*
